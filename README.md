@@ -36,10 +36,9 @@ The project explores the impact of architectural design and hyperparameter tunin
 * Apply **class weighting** or **focal loss** to handle any class imbalance
 * Deploy the model in a real-time edge environment for emergency vehicle detection
 
-## Repository Structure
 
-```
-EmergencyVehicle-CNN
+## EmergencyVehicle-CNN
+
 [Dataset](https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat)
 ```
 
